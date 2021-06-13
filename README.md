@@ -6,7 +6,7 @@ _Proyecto de un ecommerce realizado en **PHP** por mi persona Cesar Eduardo Carr
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Mira **[Deployment](#Despliegue)** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
@@ -28,7 +28,7 @@ _debes tener un servidor web instalado con las siguientes caracteristicas:_
 5. Crea la Base de Datos "Tienda"
 
 
-
+<a name="Despliegue"></a>
 ## Despliegue 📦
 
 * [Tienda](https://github.com/educamo/tienda/) - repositorio a clonar
