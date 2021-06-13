@@ -1,54 +1,38 @@
 # Contributing to Tienda
 
-## How to contribute to Ruby on Rails
+## How to contribute to the "Tienda" application
 
-#### **Did you find a bug?**
+### **Did you find a bug?**
 
-* **Do not open up a GitHub issue if the bug is a security vulnerability
-  in Rails**, and instead to refer to our [security policy](https://rubyonrails.org/security/).
+* **Do not open a GitHub issue if the bug is a security vulnerability**
 
-* **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/rails/rails/issues).
+* **Make sure the bug has not yet been reported** by searching GitHub under [Issues](https://github.com/educamo/tienda/issues).
 
-* If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/rails/rails/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
+* If you can't find an open issue that addresses the issue, [open a new one](https://github.com/educamo/tienda/issues/new). Be sure to include a **clear title and description**, as much relevant information as possible, and a **code sample** or **executable test case** that demonstrates the expected behavior that is not occurring.
 
-* If possible, use the relevant bug report templates to create the issue. Simply copy the content of the appropriate template into a .rb file, make the necessary changes to demonstrate the issue, and **paste the content into the issue description**:
-  * [**Active Record** (models, database) issues](https://github.com/rails/rails/blob/main/guides/bug_report_templates/active_record_main.rb)
-  * [**Action Pack** (controllers, routing) issues](https://github.com/rails/rails/blob/main/guides/bug_report_templates/action_controller_main.rb)
-  * [**Generic template** for other issues](https://github.com/rails/rails/blob/main/guides/bug_report_templates/generic_main.rb)
+* Make sure the bug has not yet been fixed by looking at the [tags in this repository](https://github.com/educamo/tienda/tags).
 
-* For more detailed information on submitting a bug report and creating an issue, visit our [reporting guidelines](https://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#reporting-an-issue).
 
-#### **Did you write a patch that fixes a bug?**
+For more detailed information on how to submit a bug report, write to educamo@hotmail.com.
 
-* Open a new GitHub pull request with the patch.
+### **Did you write a patch that fixes a bug?**
+create a new branch in the GitHub repository with the patch and then request a pull requests.
 
-* Ensure the PR description clearly describes the problem and solution. Include the relevant issue number if applicable.
+Make sure the commit description clearly describes the problem and the solution.
 
-* Before submitting, please read the [Contributing to Ruby on Rails](https://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html) guide to know more about coding conventions and benchmarks.
+### **Did you fix the blanks, the formatting code, or did you make a purely cosmetic patch?**
+Changes that are cosmetic in nature and do not add anything substantial to the stability, functionality or testability of "Store" will generally not be accepted.
 
-#### **Did you fix whitespace, format code, or make a purely cosmetic patch?**
+### **Do you intend to add a new role or change an existing one?**
+ fork and start writing code, once you have the changes ready make pull request.
 
-Changes that are cosmetic in nature and do not add anything substantial to the stability, functionality, or testability of Rails will generally not be accepted (read more about [our rationales behind this decision](https://github.com/rails/rails/pull/13771#issuecomment-32746700)).
+Don't open an issue on GitHub until you've collected positive feedback on the change. GitHub issues are primarily intended for bug reports and fixes.
 
-#### **Do you intend to add a new feature or change an existing one?**
+### **Do you want to contribute to the development of the application?**
+it is a voluntary effort. We encourage you to participate and join the team!
 
-* Suggest your change in the [rubyonrails-core mailing list](https://discuss.rubyonrails.org/c/rubyonrails-core) and start writing code.
+Thanks!
 
-* Do not open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
-
-#### **Do you have questions about the source code?**
-
-* Ask any question about how to use Ruby on Rails in the [rubyonrails-talk mailing list](https://discuss.rubyonrails.org/c/rubyonrails-talk).
-
-#### **Do you want to contribute to the Rails documentation?**
-
-* Please read [Contributing to the Rails Documentation](https://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#contributing-to-the-rails-documentation).
-
-Ruby on Rails is a volunteer effort. We encourage you to pitch in and join [the team](https://contributors.rubyonrails.org)!
-
-Thanks! :heart: :heart: :heart:
-
-Rails Team
 
 <br/>
 <br/>

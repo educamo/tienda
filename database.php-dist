@@ -5,12 +5,12 @@
  */
 
 ##	Bases de datos
-define('DB_TIENDA', 'tienda');
+define('DB_TIENDA', 'tiendaprueba_db');
 
 //local
-define('DB_HOSTNAME', 'localhost'); // 192.168.0.105
-define('DB_USERNAME', 'root'); //servidor
-define('DB_PASSWORD', '');
+define('DB_HOSTNAME', '160.153.77.41'); // 192.168.0.105
+define('DB_USERNAME', 'educamo'); //servidor
+define('DB_PASSWORD', 'eg68taw3nw71');
 
 ?>
 

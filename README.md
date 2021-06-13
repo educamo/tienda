@@ -33,6 +33,15 @@ _debes tener un servidor web instalado con las siguientes caracteristicas:_
 
 * [Tienda](https://github.com/educamo/tienda/) - repositorio a clonar
 * corre el archivo de  migrations create_tablas_masters.sql (mas reciente - para generar las tablas maestras de la BD)
+* Datos para pruebas: 
+
+```
+
+usuario: educamo
+clave: 123
+
+```
+
 
 ## Construido con 🛠️
 
