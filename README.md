@@ -44,7 +44,7 @@ _debes tener un servidor web instalado con las siguientes caracteristicas:_
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](CONTRIBUTING.md) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](contributing.md) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 
 ## Versionado 📌
