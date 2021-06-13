@@ -1,0 +1,16 @@
+<?php
+/*
+ *	Información de la conexion a las bases de datos del sistema
+ *	
+ */
+
+##	Bases de datos
+define('DB_TIENDA', 'tienda');
+
+//local
+define('DB_HOSTNAME', 'localhost'); // 192.168.0.105
+define('DB_USERNAME', 'root'); //servidor
+define('DB_PASSWORD', '');
+
+?>
+
