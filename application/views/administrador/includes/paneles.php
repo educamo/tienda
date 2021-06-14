@@ -87,14 +87,20 @@
         <nav class="navbar navbar-expand-sm navbar-default">
             <div id="main-menu" class="main-menu collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active">
-                        <a href="<?= base_url('administracion') ?>"><i class="menu-icon fa fa-laptop"></i><?= lang('Dashboard') ?> </a>
-                    </li>
+                  
                     <?Php
                     foreach ($modulos as $key) {
+
+                        if ($key === reset($modulos)) {
+                            $classM = 'active';
+                        } else {
+                            $classM = '';
+                        }
+
+
                         $etiqueta = $key['Modulo'];
                     ?>
-                        <li>
+                        <li class="<?= $classM ?>">
                             <a href="<?= base_url($key['url']) ?>"><i class="menu-icon fa <?= $key['icon'] ?>"></i><?= lang($etiqueta) ?> </a>
                         </li>
                     <?Php

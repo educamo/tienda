@@ -32,3 +32,5 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 ## database
 config/database.php
+
+system/sessions/

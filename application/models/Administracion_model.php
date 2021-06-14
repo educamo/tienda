@@ -54,6 +54,7 @@
             $this->db->join('nu_permisosusuarios Per', 'Modu.idMod = Per.idRelacion');
             $this->db->where('Modu.activo', $activo);
             $this->db->where('Modu.tipo', $tipo);
+            $this->db->order_by('Modu.idMod', "asc");
 
             $queryMod = $this->db->get();
             if ($queryMod->num_rows()>0) {
